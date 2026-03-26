@@ -1,6 +1,13 @@
-Below is a **tight, systems-first weekly plan for Weeks 1–8** (≈20 hrs/week) with **specific deliverables** and **only the study material that actually matters** for DeepMind / Anthropic trajectories.
+## Logistic Regression
 
-This plan assumes:
+Lets do logistic regression, predicting class on the following dataset from Kaggle:
+https://www.kaggle.com/datasets/dragonheir/logistic-regression
+
+Social_Network_Ads.csv has four fields, UserID, Gender, Age, EstimatedSalary.
+Output: Ads purchased = 0 or 1
+
+Read as a csv file.
+
 
 * Strong systems background
 * Minimal DL intuition
